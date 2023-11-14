@@ -34,13 +34,13 @@ const {
   say
 } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
-console.log('ShizoBot is starting 🚀')
-say('SHIZO-WABOT', {
+console.log('Maria-Md is starting 🚀')
+say('Maria-WABOT', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']})
-//say(`Shizo The Techie Love Harshu`, {
-say(`Github@shizothetechie\nInstagram@shizo_the_techie`, {
+//say(`Ayush Love Maria-Md`, {
+say(`Github@AYUSH-PANDEY023\nInstagram@Official_bhardwaj023`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']})
