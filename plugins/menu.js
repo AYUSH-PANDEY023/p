@@ -10,19 +10,18 @@ let tags = {
   'main': 'Main'
 }
 const defaultMenu = {
-  before: `┏━❮ *📍MENU📍* ❯━━━━
-┃ 
-┃*🤖 Bot Name:* 𝑴𝒂𝒓𝒊𝒂-𝑴𝒅
+  before: `┏━━━❮ *📍MENU📍* ❯━━━━᯽ 
+┃ *🤖 Bot Name:* 𝑴𝒂𝒓𝒊𝒂-𝑴𝒅
 ┃ *👨‍✈️ creator:*  Ayush pandey
 ┃ *💻 Library:* Baileys-MD
-┃ *📅 Date:* *%week, %date*
+┃ *📅 Date:* %week, %date
 ┃ *💠 Github:* https://github.com/AYUSH-PANDEY023/Maria-MD
-┃  👇🏻 All usable commands are listed below 
-┗━━━━━━━━━━━━━━━━━━
+┃👇🏻 All usable commands are listed below 
+┗━━━━━━━━━━━━━━━━━━᯽
   %readmore`.trimStart(),
-    header: '┌──⛄%category⛄─⊰',
-  body: '│❒✗ %cmd',
-  footer: '└──────────⊰\n',
+    header: '*━━❰･%category･❱━━*'',
+  body: ' 🌠 %cmd',
+  footer: '',
   after: `*🌟 *Hope you're enjoying bot, have a great day*`,
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
@@ -127,7 +126,7 @@ let sdevs = global.db.data.chats[m.chat].menud
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './media/contact.png')
 
-conn.sendMessage(m.chat, { video: { url: './media/menu.mp4' }, gifPlayback: true, caption: text.replace(), mentions: [m.sender] }, { quoted: m })
+conn.sendMessage(m.chat, { video: { url: './media/maria.jpg' }, gifPlayback: true, caption: text.replace(), mentions: [m.sender] }, { quoted: m })
     
   } catch (e) {
    // conn.reply(m.chat, 'ERROR IN MENU', m)
