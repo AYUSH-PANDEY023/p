@@ -18,7 +18,7 @@ const defaultMenu = {
 ║ *⏳️ Time:* %time
 ╚═════════════════❀
   %readmore`.trimStart(),
-    header: ┌──⛄%category⛄─⊰',
+    header: '┌──⛄%category⛄─⊰',
   body: '│⊳ %cmd ',
   footer: '└──────────⊰\n',
   after: `*Made by 💙𓆩‎✘AʏᴜSʜ✘𓆪_✰*`,
