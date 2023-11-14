@@ -10,7 +10,7 @@ let tags = {
   'main': 'Main'
 }
 const defaultMenu = {
-  before: `╔❑ *📍MENU📍* ❑════❀
+  before: `╔═❑ *📍MENU📍* ❑════❀
 ║ *🤖 Bot Name:* 𝑴𝒂𝒓𝒊𝒂-𝑴𝒅
 ║ *👨‍✈️ creator:*  Ayush pandey
 ║ *💻 Library:* Baileys-MD
