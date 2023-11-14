@@ -11,10 +11,10 @@ let tags = {
 }
 const defaultMenu = {
   before: `╭─┉┉┉┉┈◈ *INFO* ◈┈┉┉┉┉┉𓆩ꨄ︎𓆪
- ⁝ *🥺 Name:* SANG-MD 
+ ⁝ *🥺 Name:* Maria-MD 
  ⁝ *🪀 Version:* %version
  ⁝ *🕓 Runtime:* %uptime
- ⁝ *👩‍💻 Developer:* Shizo The Techie
+ ⁝ *👩‍💻 Developer:* Ayush pandey 
  ⁝ *📊 Database:* %totalreg users
  ⁝ *📚 Library:* Baileys
  ⁝ *🔮 Mode:* ${global.opts['self'] ? 'Self' : 'public'}
@@ -27,7 +27,7 @@ const defaultMenu = {
     header: '╭─┉┉┉┉┈◈ *%category* ◈┈┉┉┉┉┉𓆩ꨄ︎𓆪 ',
   body: '┇ ☆  %cmd ',
   footer: '╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉𓆩ꨄ︎𓆪\n',
-  after: `*Made by ♡ Shizo*`,
+  after: `*Made by 💙𓆩‎✘AʏᴜSʜ✘𓆪_✰*`,
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
