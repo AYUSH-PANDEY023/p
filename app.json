@@ -1,9 +1,9 @@
 {
-  "name": "ShizoBot",
+  "name": "Maria-Bot",
   "description": "WhatsApp Bot Base using Baileys. Written in javascript",
   "keywords": [
     "whatsapp bot",
-    "ShizoBot",
+    "Maria-Bot",
     "WaBot",
     "Termux-WaBot",
     "WaBot-Base"
