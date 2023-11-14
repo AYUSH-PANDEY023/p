@@ -6,15 +6,15 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  ['919172389527', 'Shizo Techie ❤️✨', true],
-  ['919637987574', 'S.AI Bot', true],
-  ['916207142994', 'Mr. Lens Lord 📸']
+  ['919931122319', 'Ayush pandey ❤️✨', true],
+  ['919931122319', 'Ayush', true],
+  ['919931122319', 'Mr. Ayush pandey 📸']
 ]
 global.mods = []
 global.prems = []
 
-global.author = 'Shizo The Techie'
-global.botname = 'ShizoBot'
+global.author = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.botname = 'Maria-Md 
  
  
  //Api's
@@ -29,8 +29,8 @@ global.APIKeys = {
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.stkpack = 'ShizoBot 🥵'
-global.stkowner = '© Shizo The Techie'
+global.stkpack = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stkowner = ''
 
 //management
 global.bug = '*!! Sorry 💢 !!*\nSomething went wrong 🌋'
