@@ -1,5 +1,5 @@
 { 
-    "name": "ShizoBot",
+    "name": "Maria-Bot",
     "version": "1.0.0",
     "description": "WhatsApp Bot Base using Baileys. Written in javascript",
     "main": "index.js",
@@ -16,21 +16,21 @@
     },
     "keywords": [
     "whatsapp bot",
-    "ShizoBot",
+    "Maria-Bot",
     "WaBot",
     "Termux-WaBot",
     "WaBot-Base"
   ],
-    "homepage": "https://github.com/shizothetechie/shizobot",
+    "homepage": "https://github.com/AYUSH-PANDEY023/Maria-Md",
     "author": {
-        "name": "Shizo The Techie"
+        "name": "Ayush pandey"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/shizothetechie/shizobot.git"
+        "url": "git+https://github.com/AYUSH-PANDEY023/Maria-Md"
     },
     "bugs": {
-        "url": "https://github.com/shizothetechie/shizobot/issues"
+        "url": "https://github.com/AYUSH-PANDEY023/Maria-Md"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
