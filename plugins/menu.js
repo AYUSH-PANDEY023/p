@@ -126,7 +126,7 @@ let sdevs = global.db.data.chats[m.chat].menud
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './media/contact.png')
 
-conn.sendMessage(m.chat, { video: { url: './media/maria.jpg' }, gifPlayback: true, caption: text.replace(), mentions: [m.sender] }, { quoted: m })
+conn.sendMessage(m.chat, { image: { url: './media/maria.jpg' },  caption: text.replace(), mentions: [m.sender] }, { quoted: m })
     
   } catch (e) {
    // conn.reply(m.chat, 'ERROR IN MENU', m)
