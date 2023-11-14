@@ -19,7 +19,7 @@ const defaultMenu = {
 ┃👇🏻 All usable commands are listed below 
 ┗━━━━━━━━━━━━━━━━━━᯽
   %readmore`.trimStart(),
-    header: '*━━❰･%category･❱━━*'',
+    header: '*━━❰･%category･❱━━*',
   body: ' 🌠 %cmd',
   footer: '',
   after: `*🌟 *Hope you're enjoying bot, have a great day*`,
