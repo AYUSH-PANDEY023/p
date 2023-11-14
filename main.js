@@ -87,7 +87,7 @@ const connectionOptions = {
 	    version,
         printQRInTerminal: true,
         auth: state,
-        browser: ['Maria-Md, 'Edge', '107.0.1418.26'], 
+        browser: ['Maria-Md', 'Edge', '107.0.1418.26'], 
 	      patchMessageBeforeSending: (message) => {
                 const requiresPatch = !!(
                     message.buttonsMessage 
