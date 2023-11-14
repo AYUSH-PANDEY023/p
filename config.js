@@ -12,7 +12,7 @@ global.mods = []
 global.prems = []
 
 global.author = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
-global.botname = 'Maria-Md 
+global.botname = 'Maria-Md'
  
  
  //Api's
