@@ -19,7 +19,7 @@ const defaultMenu = {
 ╚═════════════════❀
   %readmore`.trimStart(),
     header: '┌──⛄%category⛄─⊰',
-  body: '│⊳🔮 %Prefix+cmd ',
+  body: '│⊳🔮 %Prefix ',
   footer: '└──────────⊰\n',
   after: `*Made by 💙𓆩‎✘AʏᴜSʜ✘𓆪_✰*`,
 }
