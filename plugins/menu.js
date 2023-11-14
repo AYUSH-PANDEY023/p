@@ -10,16 +10,16 @@ let tags = {
   'main': 'Main'
 }
 const defaultMenu = {
-  before: `╔═❑ *📍MENU📍* ❑════❀
-║ *🤖 Bot Name:* 𝑴𝒂𝒓𝒊𝒂-𝑴𝒅
-║ *👨‍✈️ creator:*  Ayush pandey
-║ *💻 Library:* Baileys-MD
-║ *🗓 Date:* %date
-║ *⏳️ Time:* %time
-╚═════════════════❀
+  before: `┏━❦❮ *📍MENU📍* ❯❦━━━━❀
+┃*🤖 Bot Name:* 𝑴𝒂𝒓𝒊𝒂-𝑴𝒅
+┃ *👨‍✈️ creator:*  Ayush pandey
+┃ *💻 Library:* Baileys-MD
+┃ *🗓 Date:* %date
+┃ *⏳️ Time:* %time
+┗━━━━━━━━━━━━━━━━━━❀
   %readmore`.trimStart(),
     header: '┌──⛄%category⛄─⊰',
-  body: '│⊳🔮 %Prefix ',
+  body: '│⊳🔮 %cmd',
   footer: '└──────────⊰\n',
   after: `*Made by 💙𓆩‎✘AʏᴜSʜ✘𓆪_✰*`,
 }
