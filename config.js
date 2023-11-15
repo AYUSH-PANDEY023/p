@@ -27,7 +27,7 @@ global.APIKeys = {
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.stkpack = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stkpack = process.env.STICKER
 global.stkowner = ''
 
 //management
