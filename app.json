@@ -15,7 +15,9 @@
     },
     "AUTHOR": {
       "description": ""
-    }
+    },
+    "STICKER": {
+      "description": ""
   },
   "buildpacks": [
     {
