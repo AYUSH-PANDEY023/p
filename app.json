@@ -1,7 +1,7 @@
 {
   "name": "Maria-Bot",
   "description": "WhatsApp Bot Base using Baileys. Written in javascript",
- "logo": "https://i.ibb.co/v41Z1Dp/IMG-20231114-WA0021.jpg",
+  "logo": "https://i.ibb.co/v41Z1Dp/IMG-20231114-WA0021.jpg",
   "keywords": [
     "whatsapp bot",
     "Maria-Bot",
@@ -10,13 +10,14 @@
     "WaBot-Base"
   ],
   "env": {
-        "PREFIX": {
-            "description": "Prefix of your bot Ex: - , / , # , & etc. Put anythong except @"
-        },
-        "SESSION_ID": {
-            "description": "A random string for your bot session. Which works as an OTP to get qr code. And you have to chane sessioon every time to get a new qr."
-        },
- "buildpacks": [
+    "PREFIX": {
+      "description": "Prefix of your bot. Ex: - , / , # , & etc. Put anything except @"
+    },
+    "SESSION_ID": {
+      "description": "A random string for your bot session. Which works as an OTP to get qr code. And you have to change session every time to get a new qr."
+    }
+  },
+  "buildpacks": [
     {
       "url": "heroku/nodejs"
     },
