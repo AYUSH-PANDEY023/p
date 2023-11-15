@@ -10,11 +10,11 @@
     "WaBot-Base"
   ],
   "env": {
-    "PREFIX": {
-      "description": "Prefix of your bot. Ex: - , / , # , & etc. Put anything except @"
+    "BOTNAME": {
+      "description": "Name of your bot. Ex: - Maria-Bot"
     },
-    "SESSION_ID": {
-      "description": "A random string for your bot session. Which works as an OTP to get qr code. And you have to change session every time to get a new qr."
+    "AUTHOR": {
+      "description": ""
     }
   },
   "buildpacks": [
