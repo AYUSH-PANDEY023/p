@@ -9,6 +9,13 @@
     "Termux-WaBot",
     "WaBot-Base"
   ],
+  "env": {
+        "PREFIX": {
+            "description": "Prefix of your bot Ex: - , / , # , & etc. Put anythong except @"
+        },
+        "SESSION_ID": {
+            "description": "A random string for your bot session. Which works as an OTP to get qr code. And you have to chane sessioon every time to get a new qr."
+        },
  "buildpacks": [
     {
       "url": "heroku/nodejs"
