@@ -18,6 +18,7 @@
     },
     "STICKER": {
       "description": ""
+    }
   },
   "buildpacks": [
     {
