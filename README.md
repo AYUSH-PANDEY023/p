@@ -33,10 +33,10 @@
 ## 🤝 Contributers
 
 <a href="https://github.com/AYUSH-PANDEY023/Maria-Md/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Synthesized-Infinity/Whatsapp-Botto-Void" />
+  <img src="" />
 </a>
 
 
 ## 🌐 Join Us
 ### 🟢 WhatsApp Group
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlGNyRC9TMI07r1Fvt9fTU)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jllsl2OaQNoBjepxzuVsZM)
