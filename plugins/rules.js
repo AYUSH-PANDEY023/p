@@ -14,7 +14,7 @@ let handler = async m => m.reply(`
 🔖 _Enjoy the bot and have fun._
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['rules']
-handler.tags = ['info']
-handler.command = /^rules$/i
+handler.tags = ['other']
+handler.command = ['rules']
 
 module.exports = handler
