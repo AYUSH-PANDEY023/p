@@ -12,7 +12,7 @@ let handler = async m => m.reply(`
 🔖 _If you want this bot in your group then contact owner by typing !owner/creator._
     
 🔖 _Enjoy the bot and have fun._
-`.trim()) // Tambah sendiri kalo mau
+`.trim()) 
 handler.help = ['rules']
 handler.tags = ['main']
 handler.command = ['rule']
