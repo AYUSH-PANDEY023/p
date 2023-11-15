@@ -11,8 +11,8 @@ global.owner = [
 global.mods = []
 global.prems = []
 
-global.author = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
-global.botname = 'Maria-Md'
+global.author = process.env.AUTHOR 
+global.botname = process.env.BOTNAME 
  
  
  //Api's
