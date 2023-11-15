@@ -23,7 +23,7 @@ let handler = async (m, { conn, command, args }) => {
     }
 }
 handler.help = ['google']
-handler.tags = ['tools']
+handler.tags = ['main']
 handler.command = ['google']
 
 export default handler
