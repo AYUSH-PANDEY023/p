@@ -1,4 +1,5 @@
-let handler = async m => m.reply(`
+let handler = async (m) => {
+ m.reply(`
 🏮 *BOT RULES*
 
 🔖 _Do not call bot, if you do then you'll get automatically blocked by bot._
@@ -13,8 +14,9 @@ let handler = async m => m.reply(`
     
 🔖 _Enjoy the bot and have fun._
 `.trim()) 
+}
 handler.help = ['rules']
 handler.tags = ['main']
 handler.command = ['rule']
 
-module.exports = handler
+export default handler
