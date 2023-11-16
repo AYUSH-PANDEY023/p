@@ -11,7 +11,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `┏━━━❮ *📍MENU📍* ❯━━━━᯽ 
-┃ *🤖 Bot Name:* *Maria-Md*
+┃ *🤖 Bot Name:* Maria-Md
 ┃ *👨‍✈️ creator:*  Ayush pandey
 ┃ *💻 Library:* Baileys-MD
 ┃ *📅 Date:* %week, %date
@@ -20,8 +20,8 @@ const defaultMenu = {
 👇🏻 All usable commands are listed below 
   %readmore`.trimStart(),
     header: '╭────᯽ %category ᯽───╮',
-  body: '├・🎗️ %cmd',
-  footer: '╰────────────────╯',
+  body: '├•⛄ %cmd',
+  footer: '╰──────────────╯',
   after: `*🌟 *Hope you're enjoying bot, have a great day*`,
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
