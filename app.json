@@ -13,15 +13,22 @@
     "BOTNAME": {
       "description": "Name of your bot. Ex: - Maria-Bot"
     },
+        "OWNER_NAME": {
+      "description": ""
+    },
+        "OWNER_NUMBER": {
+      "description": ""
+    },
+     "PREFIX": {
+      "description": "set your bot prefix here ex:- '!' "
+     },
     "AUTHOR": {
       "description": "set your bot author name here"
     },
     "STICKER": {
       "description": "set your bot sticker package name ex:- Ayush"
-    },
-        "PREFIX": {
-      "description": "set your bot prefix here ex:- '!' "
     }
+        
   },
   "buildpacks": [
     {
