@@ -20,9 +20,9 @@ const defaultMenu = {
 👇🏻 All usable commands are listed below 
   %readmore`.trimStart(),
     header: '╭────᯽ %category ᯽───╮',
-  body: '├•⛄ %cmd',
+  body: '├•🎀 %cmd',
   footer: '╰──────────────╯',
-  after: `*🌟 Hope you're enjoying bot, have a great day*`,
+  after: `*🌟 Hope you're enjoying bot, have a great day*\n\n  ©Ayush Botz.Inc `,
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
