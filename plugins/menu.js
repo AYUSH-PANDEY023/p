@@ -22,7 +22,7 @@ const defaultMenu = {
     header: '╭────᯽ %category ᯽───╮',
   body: '├•⛄ %cmd',
   footer: '╰──────────────╯',
-  after: `*🌟 *Hope you're enjoying bot, have a great day*`,
+  after: `*🌟 Hope you're enjoying bot, have a great day*`,
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
