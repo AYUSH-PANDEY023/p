@@ -14,10 +14,13 @@
       "description": "Name of your bot. Ex: - Maria-Bot"
     },
     "AUTHOR": {
-      "description": ""
+      "description": "set your bot author name here"
     },
     "STICKER": {
-      "description": ""
+      "description": "set your bot sticker package name ex:- Ayush"
+    },
+        "PREFIX": {
+      "description": "set your bot prefix here ex:- '!' "
     }
   },
   "buildpacks": [
