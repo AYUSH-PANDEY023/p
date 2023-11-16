@@ -1,5 +1,5 @@
 let handler = async (m) => {
- m.reply(`📍My Developer's Group📍\n\n*🎇 𝐌𝐚𝐫𝐢𝐚 support group:🎇* *https://chat.whatsapp.com/FoS7pSPtfMqBuoireK4aAJ*
+ m.reply(`📍My Developer's Group📍\n\n*🎇 𝐌𝐚𝐫𝐢𝐚 support group:🎇* *https://chat.whatsapp.com/Jllsl2OaQNoBjepxzuVsZM*
 `.trim()) 
 }
 handler.help = ['support]
