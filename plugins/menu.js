@@ -10,11 +10,6 @@ let tags = {
   'main': 'Main'
 }	
 const defaultMenu = {
-	conn.sendMessage(m.chat, {
-          react: {
-            text: `🧩`,
-            key: m.key,
-          }})
   before: `┏━━━❮ *📍MENU📍* ❯━━━━᯽ 
 ┃ *🤖 Bot Name:* Maria-Md
 ┃ *👨‍✈️ creator:*  Ayush pandey
