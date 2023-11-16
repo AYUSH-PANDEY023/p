@@ -2,7 +2,7 @@
 let handler = async (m, { conn }) => {
 	
 	await conn.fetchBlocklist().then(async data => {
-		let txt = `*here the list of block users🚫*\n\n*Total :* ${data.length}\n\n┌─⊷\n`
+		let txt = `*Total Block list☣️:* ${data.length}\n\n┌─⊷\n`
 		for (let i of data) {
 			txt += `▢ @${i.split("@")[0]}\n`
 		}
