@@ -11,15 +11,15 @@ let tags = {
 }
 const defaultMenu = {
   before: `┏━━━❮ *📍MENU📍* ❯━━━━᯽ 
-┃ *🤖 Bot Name:* ${botname}
-┃ *👨‍✈️ creator:*  ${ownername}
+┃ *🤖 Bot Name:*
+┃ *👨‍✈️ creator:*  
 ┃ *💻 Library:* Baileys-MD
 ┃ *📅 Date:* %week, %date
 ┃ *💠 Github:* https://github.com/AYUSH-PANDEY023/Maria-MD
 ┃👇🏻 All usable commands are listed below 
 ┗━━━━━━━━━━━━━━━━━━᯽
   %readmore`.trimStart(),
-    header: '╭──────᯽%category᯽─────╮',
+    header: '╭──────᯽ %category ᯽─────╮',
   body: '├・🧧 %cmd',
   footer: '╰──────────────────╯',
   after: `*🌟 *Hope you're enjoying bot, have a great day*`,
