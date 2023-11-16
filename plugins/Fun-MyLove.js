@@ -9,9 +9,9 @@ function handler(m, { groupMetadata }) {
         mentions: [a, b]
     })
 }
-handler.help = ['mylove']
+handler.help = ['soulmate']
 handler.tags = ['fun']
-handler.command = ['mylove']
+handler.command = ['mylove','soulmate']
 
 handler.group = true
 
