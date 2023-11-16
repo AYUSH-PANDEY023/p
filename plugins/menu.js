@@ -9,6 +9,11 @@ import moment from 'moment-timezone'
 let tags = {
   'main': 'Main'
 }
+	conn.sendMessage(m.chat, {
+          react: {
+            text: `🧩`,
+            key: m.key,
+          }})
 const defaultMenu = {
   before: `┏━━━❮ *📍MENU📍* ❯━━━━᯽ 
 ┃ *🤖 Bot Name:* Maria-Md
