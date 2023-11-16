@@ -15,7 +15,6 @@ const defaultMenu = {
 ┃ *👨‍✈️ creator:*  ${ownername}
 ┃ *💻 Library:* Baileys-MD
 ┃ *📅 Date:* %week, %date
-┃ *👨‍✈️ User:* %name
 ┃ *💠 Github:* https://github.com/AYUSH-PANDEY023/Maria-MD
 ┃👇🏻 All usable commands are listed below 
 ┗━━━━━━━━━━━━━━━━━━᯽
