@@ -17,6 +17,6 @@ let handler = async (m) => {
 }
 handler.help = ['rules']
 handler.tags = ['main']
-handler.command = ['rule']
+handler.command = ['rules']
 
 export default handler
