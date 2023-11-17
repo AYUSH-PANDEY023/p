@@ -21,14 +21,11 @@
 
 ## 💻 Deploy/Hosting Guide
 - Section Moved to [Maria-Guides](https://github.com/AYUSH-PANDEY023/Maria-Guides)
+- 
 ## 🍥 Features of the Repo
-- To view all features, click here➡️[Maria_featuresList.md](https://github.com/AYUSH-PANDEY023/Maria-Md/blob/main/Features.md)
+- To view all features, click here➡️[Maria_featuresList.md](https://github.com/AYUSH-PANDEY023/Maria-wabot/blob/main/Features.md)
 
 
-## 💪 Contribution
-
-+ Feel free to open issues regarding any problems or if you have any feature requests
-+ Make sure to follow the ESLint Rules while editing the code and run `npm run prettier-format` before opening PRs
 
 ## 🤝 Contributers
 
