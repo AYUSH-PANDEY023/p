@@ -8,6 +8,8 @@ import fs from 'fs'
 global.owner = [
   [process.env.OWNER_NUMBER, process.env.OWNER_NAME, true]
 ]
+global.ownername = process.env.OWNER_NAME
+global.botname = process.env.BOTNAME
 global.mods = []
 global.prems = []
 
