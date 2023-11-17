@@ -11,8 +11,8 @@ let tags = {
 }	
 const defaultMenu = {
   before: `┏━━━❮ *📍MENU📍* ❯━━━━᯽ 
-┃ *🤖 Bot Name:* Maria-Md
-┃ *👨‍✈️ creator:*  ${ownername}
+┃ *🤖 Bot Name:* process.env.BOTNAME
+┃ *👨‍✈️ creator:*  process.env.OWNER_NAME
 ┃ *💻 Library:* Baileys-MD
 ┃ *📅 Date:* %week, %date
 ┃ *💠 Github:* https://github.com/AYUSH-PANDEY023/Maria-MD
