@@ -12,7 +12,7 @@ let tags = {
 const defaultMenu = {
   before: `┏━━━❮ *📍MENU📍* ❯━━━━᯽ 
 ┃ *🤖 Bot Name:* Maria-Md
-┃ *👨‍✈️ creator:*  Ayush pandey
+┃ *👨‍✈️ creator:*  ${ownername}
 ┃ *💻 Library:* Baileys-MD
 ┃ *📅 Date:* %week, %date
 ┃ *💠 Github:* https://github.com/AYUSH-PANDEY023/Maria-MD
