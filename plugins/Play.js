@@ -10,7 +10,7 @@ const streamPipeline = promisify(pipeline);
 
 let handler = async (m, { conn, command, text, usedPrefix }) => {
   if (!text) throw `Use example ${usedPrefix}${command} naruto blue bird`;
-  await m.react(rwait);
+  
 
   try {
     // Encode the query for the API request
